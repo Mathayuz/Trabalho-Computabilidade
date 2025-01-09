@@ -573,7 +573,7 @@ K#kawaii
 K#sugoi
 K#nihonngo
 K#arigato
-K#konnichiwa
+K#konichiwa
 K#sennsei
 K#watashi
 K#tanoshii
