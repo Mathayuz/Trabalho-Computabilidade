@@ -582,7 +582,7 @@ H#omoshiroi
 H#hannji  
 H#hatakana  
 H#hiragana  
-H#tensai  
+H#tennsai  
 H#samurai
 H#okonomiyaki
 H#ramenn
